@@ -32,7 +32,7 @@ Se você estiver com dificuldades em entender alguma coisa, eu sugiro que você 
   * [Introdução](#introdução)
     + [Motivação](#motivação)
     + [Material Complementar](#material-complementar)
-  * [Tabela de Conteúdos](#sumário)
+  * [Sumário](#sumário)
   * [Noções](#noções)
     + [Declaração de variáveis: var, const, let](#declaração-de-variáveis-var-const-let)
       - [Breve explicação](#breve-explicação)
